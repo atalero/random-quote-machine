@@ -1,0 +1,33 @@
+
+body{
+      background-color: black;
+  background-image: url(http://res.cloudinary.com/dhjypclhx/image/upload/v1499960161/sunset-984546_yoxyxg.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+
+.my-box {
+  min-height: 250px;
+  margin-top:30%;
+  padding: 10px;
+  background-color:white;
+  opacity: 0.5;
+}
+
+.message{
+  min-height: 150px;
+  padding-top: 20px;
+  font-family: Verdana;
+  font-size: 18px;
+  margin: 5px 5px 5px 5px;
+}
+
+button{
+  margin-top: 20px;
+}
+
+.attribute{
+  margin-bottom: 20px;
+  color:gray;
+}
